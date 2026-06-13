@@ -38,7 +38,7 @@ Run all cells and follow the menu options.
 Screenshots are available in the screenshots folder.
 
 ## Demo Video
-
+https://youtu.be/UN7EPgum3qY
 A demo video demonstrating the working application is included.
 
 ## Author
